@@ -193,7 +193,7 @@ Toutes les données sont sauvegardées et mises à jour **en temps réel** dans 
 
 ---
 
-## 🧰 Dépannage courant
+## 🧰 Dépannage courant venant des bugs que j'ai eu
 
 | Problème                                                         | Cause probable                               | Solution                                                                        |
 | ---------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------- |
