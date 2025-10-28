@@ -13,7 +13,6 @@ class PartieRubrique extends StatelessWidget {
           _rubriqueCard('Actualités', Icons.article),
           _rubriqueCard('Technologie', Icons.computer),
           _rubriqueCard('Culture', Icons.palette),
-          _rubriqueCard('Sport', Icons.sports),
         ],
       ),
     );
